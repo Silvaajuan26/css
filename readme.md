@@ -1,4 +1,6 @@
 # INTRODUCION AL CSS
+
+El CSS (Cascading Style Sheets) u Hojas de Estilo en Cascada, fue desarrollado en 1996.
  
 1. Hoja de estilos en cascada
  
